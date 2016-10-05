@@ -1,2 +1,2 @@
-# movie-search
-PHP Movie Search application using OMDB API
+<h1>Movie Search Application</h1>
+<p>PHP Movie Search application using OMDB API</p>
