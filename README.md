@@ -1,3 +1,3 @@
 <h1>Movie Search Application</h1>
 <p>PHP Movie Search application using OMDB API</p>
-<a href="http://hashs94.5gbfree.com/">Demo</a>
+<a href="http://hashs94.5gbfree.com/" target="_blank">Demo</a>
